@@ -2,6 +2,7 @@
   "name": "in-class-3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mr-obertson.github.io/matthewrobertson_HWIC3_csi3150_ws2024/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
